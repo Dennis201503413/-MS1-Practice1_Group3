@@ -26,3 +26,8 @@ People:
 Aisles:
 * 7 aisles, 3 products per aisle (0.5min per product) (72.3% buying the product/ 27.7% not buying).
 * **7m** of length for each aisle.
+
+Checkout:
+* people with 20 or less go to fast checkout, the rest go to normal checkout.
+* fast checkout: 1-5 min 
+* normal checkout: 5-20 min
